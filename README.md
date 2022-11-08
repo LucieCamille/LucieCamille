@@ -1,7 +1,7 @@
 # Offergeld Lucie-Camille
 **`UX/UI and Front-end developer`**
 
-I'm a trainee front-end developer from Belgium and I'm currently looking for an internship! 
+I'm a trainee front-end developer from Belgium and I'm currently doing an internship at Crewbooking!
 
 ## What I can use 🔭
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -15,6 +15,7 @@ I'm a trainee front-end developer from Belgium and I'm currently looking for an 
 <br />
 
 ## I’m currently learning 🌱
+<img align="left" alt="bitbucket" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Typesript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="Vuejs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" /> 
